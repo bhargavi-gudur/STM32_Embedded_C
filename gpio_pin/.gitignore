@@ -1,0 +1,29 @@
+# Keil build output files
+*.axf
+*.hex
+*.o
+*.obj
+*.lst
+*.map
+*.dep
+*.d
+*.crf
+*.lnp
+
+# Keil project option files (sometimes)
+*.uvoptx
+*.uvgui.*
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+
+# Build folder if you have one
+build/
+# Keil project files
+*.uvprojx
+*.uvproj
+# Keil project files
+*.uvopt
+# Keil project files
