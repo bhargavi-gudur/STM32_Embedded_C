@@ -1,5 +1,5 @@
-# 🚀 STM32 Embedded C – GPIO Pin Toggle Project
-
+# 🚀 STM32 Embedded C Project
+ 
 ## 📘 Overview
 
 This project is a **bare-metal Embedded C implementation** for STM32 microcontrollers. It includes peripheral-level driver development focused on **GPIO**, with extensions possible for **SPI**, **UART**, and **I2C**. Development is done using **Keil uVision** and documented/version-controlled via **Visual Studio Code** + GitHub.
