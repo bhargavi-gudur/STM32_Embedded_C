@@ -80,6 +80,7 @@ STM32_Embedded_C/
    .vscode/
    build/
    ```
+
 2. If unwanted files were already pushed, run:
 
    ```bash
