@@ -1,4 +1,5 @@
 # 🚀 STM32 Embedded C Project
+
  
 ## 📘 Overview
 
@@ -108,10 +109,12 @@ STM32_Embedded_C/
 
 ---
 
+
 ## 🙇‍♀️ Author
 
 **Bhargavi Gudur**
 Embedded Software Engineer | STM32 | Bare-metal C | GitHub
 🔗 [GitHub Profile](https://github.com/bhargavi-gudur)
+
 
 ---
