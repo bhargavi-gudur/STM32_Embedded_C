@@ -41,6 +41,7 @@ STM32_Embedded_C/
    ```bash
    git clone https://github.com/bhargavi-gudur/STM32_Embedded_C.git
    ```
+
 3. Open the project in Keil:
 
    * Navigate to the `gpio_pin/` folder.
@@ -90,6 +91,7 @@ STM32_Embedded_C/
    git commit -m "Cleaned up ignored files"
    git push
    ```
+
 3. To fix CRLF warnings:
 
    ```bash
